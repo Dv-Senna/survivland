@@ -1,0 +1,11 @@
+# binaries
+bin/*
+obj/*
+
+# vs code configurations
+.vscode/*
+
+# makefiles
+Makefile
+challenge1.make
+run.bat
